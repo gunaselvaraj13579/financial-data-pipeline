@@ -1,0 +1,4 @@
+- [x] Backfill run: 90 days of S&P 500 OHLCV → PostgreSQL
+- [x] Added DB screenshots (counts + AAPL sample)
+- [ ] Optional: Airflow local run & DAG screenshot
+- [ ] Optional: Simple analysis notebook
